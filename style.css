@@ -6,10 +6,16 @@
   box-sizing: border-box;
   font-family: "Titillium Web", sans-serif;
 }
+
+:root{
+  font-size: 62.5%;
+}
+
 main {
   display: flex;
   flex-direction: row;
   height: 100vh;
+  width: 100vw;
 }
 
 .right {
@@ -20,27 +26,28 @@ main {
 
 .logo {
   display: flex;
-  margin: 40px 112px;
-  margin-bottom: 114px;
+  margin: 4rem 32rem;
+  margin-bottom: 14rem;
 }
 
 .container {
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
-  padding: 0px;
+  align-items: baseline;
+  padding: 0;
   gap: 40px;
-
+  margin-left: 18rem;
   position: absolute;
   width: 550px;
   height: 483px;
 }
 
 .container h1 {
-  margin: 0px 114px;
+  margin: 0rem 14rem;
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
+  width: 550px;
 }
 
 .container p {
