@@ -34,7 +34,7 @@ O projeto _Login Page_ foi realizado como parte do #11 desafio #BORACODAR da Roc
 
 O desafio foi a criação do layout de uma página com informações de login <a href="#-layout-figma">Layout</a>.
 
-_<h2 align="center" ><a href="" target="_blank">Visite o projeto online</a></h2>_
+_<h2 align="center" ><a href="https://vertigo-template.vercel.app/" target="_blank">Visite o projeto online</a></h2>_
 
 ## 🔖 Layout
 
