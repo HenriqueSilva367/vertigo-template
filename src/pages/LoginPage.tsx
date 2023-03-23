@@ -28,7 +28,13 @@ function LoginPage() {
           <form>
             <div className="input-wrapper">
               <label htmlFor="email">E-mail</label>
-              <input id="email" type="email" name="email" required />
+              <input 
+                id="email" 
+                type="email" 
+                name="email" 
+                placeholder="Digite seu email" 
+                required
+              />
             </div>
 
             <div className="input-wrapper">
